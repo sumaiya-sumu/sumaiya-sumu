@@ -1,7 +1,6 @@
 (https://media.licdn.com/dms/image/C5616AQEZKSlrmgjuug/profile-displaybackgroundimage-shrink_350_1400/0/1593257541267?e=1726704000&v=beta&t=ZDYbP_4WSyJ6M9tZ82ePybS67jn7H_7QhkGEnPR3cXk)
-### Hi there 👋, I am Sumaiya
+### I am Sumaiya
 #### QA Engineer
-![QA Engineer]
 
 A passionate QA Engineer skilled in manual and automation testing. I love ensuring flawless software and great user experiences. Always exploring new tech and refining my skills. Let’s create something amazing!
 
