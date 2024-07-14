@@ -1,16 +1,15 @@
-## Hi there 👋
+(https://media.licdn.com/dms/image/C5616AQEZKSlrmgjuug/profile-displaybackgroundimage-shrink_350_1400/0/1593257541267?e=1726704000&v=beta&t=ZDYbP_4WSyJ6M9tZ82ePybS67jn7H_7QhkGEnPR3cXk)
+### Hi there 👋, I am Sumaiya
+#### QA Engineer
+![QA Engineer]
 
-<!--
-**sumaiya-sumu/sumaiya-sumu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate QA Engineer skilled in manual and automation testing. I love ensuring flawless software and great user experiences. Always exploring new tech and refining my skills. Let’s create something amazing!
 
-Here are some ideas to get you started:
+Skills: API ,Salesforce ,Cypress ,Testcase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Monstarlab bd 
+- 📫 How to reach me: sumaiyatuni967@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sumaiya-sumu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sumaiya-sumu-79a42017b//)  
+
